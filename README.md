@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernardo Brum</h1>
 <h3 align="center">A begginer frontend developer from Brazil</h3>
 <br>
-<p align="center">🌱 I’m currently learning <b>Vue.JS and JavaScript</b></p>
+<p align="center">🌱 I’m currently learning <b>Vue.JS and AEM</b></p>
 
 <p align="center">📫 How to reach me <b>bernardoalvesbrum_100@hotmail.com</b></p>
 
