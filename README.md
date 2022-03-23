@@ -1,7 +1,7 @@
-<h1 align="center">Olá, meu nome é Bernardo Brum</h1>
-<h3 align="center">Aspirante a desenvolvedor front-end</h3>
+<h1 align="center">Hi, I'm Bernardo Brum</h1>
+<h3 align="center">I'm a beginner front end developer</h3>
 <br><br>
-<p align="center">Como me contatar: <b>bernardoalvesbrum_100@hotmail.com</b></p>
+<p align="center">How to reach me: <b>bernardoalvesbrum_100@hotmail.com</b></p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
