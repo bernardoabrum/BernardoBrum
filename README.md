@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bernardo Brum</h1>
-<h3 align="center">I'm a beginner front-end developer</h3>
+<h3 align="center">I'm a front-end developer</h3>
 <br><br>
 <p align="center">How to reach me: <b>bernardoalvesbrum_100@hotmail.com</b></p>
 <br>
